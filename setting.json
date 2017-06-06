@@ -1,0 +1,5 @@
+{
+    "feed": "http://www.battlenet.com.cn/wow/zh/character/%E4%B8%87%E8%89%B2%E6%98%9F%E8%BE%B0/%E9%98%BF%E5%88%A9%E6%96%AF%E6%B3%B0/feed",
+    "port": 3000,
+    "cors": "*"
+}
